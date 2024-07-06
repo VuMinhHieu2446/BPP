@@ -1,0 +1,2 @@
+Evaluation using 100 episodes
+Mean ratio 0.77091, mean length30.18000
